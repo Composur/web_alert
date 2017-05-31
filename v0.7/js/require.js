@@ -1040,7 +1040,7 @@ var requirejs, require, define;
                             moduleMap = makeModuleMap(moduleName),
                             hasInteractive = useInteractive;
 
-                        //As of 2.1.0, support just passing the text, to reinforce
+                        //As of 2.v1.0, support just passing the text, to reinforce
                         //fromText only being called once per resource. Still
                         //support old style of passing moduleName but discard
                         //that moduleName in favor of the internal ref.
